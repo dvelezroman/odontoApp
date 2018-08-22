@@ -57,5 +57,5 @@ This will execute only the specs with the exact file name.
 > This should run a production build of webpack, and raise an nginx server to serve all static files and the api at port 80. This includes forever inside the container to keep the API running even if error occurs.
 
 <p align="center">
-    <img src="https://i.imgur.com/CFreJep.jpg" />
+    <img src="https://t4.ftcdn.net/jpg/01/02/66/91/500_F_102669153_Z0CH7qtu3cjWzfL5YitbAtIuOVG04XUU.jpg" />
 </p>
