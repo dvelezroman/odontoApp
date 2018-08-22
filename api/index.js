@@ -26,6 +26,6 @@ const port = process.env.API_PORT || 3000;
 // Syncing all the models at once.
 setup.then(() => {
   server.listen(port, () => {
-    console.log('%s listening at %s', server.name, server.url); // eslint-disable-line no-console
+    console.log('%s I am listening at %s', server.name, server.url); // eslint-disable-line no-console
   });
 });
